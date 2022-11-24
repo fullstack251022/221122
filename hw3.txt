@@ -1,0 +1,7 @@
+https://www.w3resource.com/java-exercises/method/index.php
+
+נא לעשות את תרגילים
+1,2,3,5
+
+זה יכול לעזור לעשות את תרגיל 5
+https://www.javatpoint.com/substring
